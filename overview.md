@@ -37,7 +37,7 @@ A data scientist needs to be able to juggle several competing abilities.
   * **The ability to prioritize**. With every additional data source available
     for your domain, there will be an exponentially growing number of features
     and derivative projects. A good data scientist (especially at a smaller company)
-    will operate with surgicical precision on first tackling the questions that
+    will operate with surgical precision on first tackling the questions that
     can have the most immediate impact, and be comfortable with saying no
     to every other request.
 
