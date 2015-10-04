@@ -1,6 +1,9 @@
 Successful traits of a data scientist
 ============
 
+*Note*: This list is largely inspired by a
+[Quora post from William Chen](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview).
+
 A data scientist needs to be able to juggle several competing abilities.
 
   * **A constant pursuit of learning**. With the variety of problems related to 
